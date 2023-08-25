@@ -1,3 +1,5 @@
+![banner](https://github.com/johnson-ad/johnson-ad/assets/83038351/513f73f7-8fac-4a9a-b5c5-e5ce5f7813c9)
+
 <h1 align="center">Hi 👋, I'm Johnson Pandi</h1>
 <h3 align="center">A passionate frontend and backend developer from US</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ljej9g7vpv2loao3fa3uzvi938ad55uxnzjyzuez&ep=v1_gifs_search&rid=giphy.gif&ct=g">
